@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 '''
 CommentScoop is a python script that crawls through a web page (and any linked pages) source code (including CSS and javascript) and finds comments.
